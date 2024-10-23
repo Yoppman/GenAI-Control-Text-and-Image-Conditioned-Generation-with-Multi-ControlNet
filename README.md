@@ -4,10 +4,7 @@
 
 This project, **Multi-ControlNet**, extends the functionality of the ControlNet model by incorporating **separate prompts** for more complex and refined control over image generation tasks. Our aim is to overcome the limitations of standard ControlNet by adding textual conditions that guide image generation based on specific characters or styles. 
 
-<<<<<<< HEAD
->>>>>>> 9a3ef6e (Upload Training Script)
-=======
-The project is based on Stable Diffusion architecture and explores various methods to merge text-based control with image conditions to improve the model's ability to generate highly specific outputs. We experimented with three methods to accomplish this: **direct ControlNet training with prompts**, **DreamBooth integration**, and **LoRA fine-tuning**.
+Specifically, it is based on **Stable Diffusion**== architecture and explores various methods to merge text-based control with image conditions to improve the model's ability to generate highly specific outputs. We experimented with three methods to accomplish this: **direct ControlNet training with prompts**, **DreamBooth integration**, and **LoRA fine-tuning**.
 
 ## Table of Contents
 
