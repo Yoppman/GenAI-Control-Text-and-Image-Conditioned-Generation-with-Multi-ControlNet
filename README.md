@@ -83,4 +83,3 @@ Overall, integrating textual conditions into ControlNet presents unique challeng
 - ControlNet: Lvmin Zhang, Maneesh Agrawala. Adding Conditional Control to Text-to-Image Diffusion Models. arXiv:2302.05543
 - DreamBooth: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, et al. Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation. arXiv:2208.12242
 - LoRA: Edward J. Hu, et al. Low-Rank Adaptation of Large Language Models. arXiv:2106.09685
->>>>>>> dfbe247 (Upload README.md)
